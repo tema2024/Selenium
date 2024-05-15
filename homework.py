@@ -28,7 +28,7 @@ def browse_wikipedia():
                 if input("Нажмите Enter для следующего параграфа или введите 'stop' для остановки: ") == 'stop':
                     break
 
-      
+
         while True:
             print("\nВыберите действие:")
             print("1 - Показать параграфы текущей статьи")
